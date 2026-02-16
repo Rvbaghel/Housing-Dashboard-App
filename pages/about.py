@@ -79,7 +79,7 @@ with col1:
 with col2:
     st.markdown("""
     ### 📦 PyPI Package  
-    👉 https://pypi.org/project/india-housing-datasets/
+    👉 https://pypi.org/project/india_housing_datasets/
     """)
 
 st.divider()
